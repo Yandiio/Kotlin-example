@@ -1,4 +1,4 @@
-package com.dicoding.started
+package com.dicoding.started.fundamental
 
 //    val intNumber = 100
 //    val longNumber: Long = 100

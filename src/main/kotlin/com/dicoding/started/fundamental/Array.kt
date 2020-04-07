@@ -1,4 +1,4 @@
-package com.dicoding.started
+package com.dicoding.started.fundamental
 
 fun main() {
 //    val array = arrayOf(1,2,3,4,5)

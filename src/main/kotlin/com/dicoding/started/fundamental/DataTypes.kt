@@ -1,4 +1,4 @@
-package com.dicoding.started
+package com.dicoding.started.fundamental
 
 /*
     when using variable (the structure)

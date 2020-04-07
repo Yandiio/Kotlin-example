@@ -1,4 +1,4 @@
-package com.dicoding.started
+package com.dicoding.started.fundamental
 
 // Correct
 //val character = 'A'

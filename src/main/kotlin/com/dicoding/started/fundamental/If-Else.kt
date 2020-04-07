@@ -1,4 +1,4 @@
-package com.dicoding.started
+package com.dicoding.started.fundamental
 
 fun main() {
     val mainHour = 7
